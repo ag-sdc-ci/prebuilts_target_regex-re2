@@ -1,0 +1,6 @@
+shadow prebuilt repo: regex-re2 (target)
+  upstream: external/regex-re2
+  api-level: 34 (branch 34-20261016)
+  blobs: org.blisslabs.ag.ext.regex.re2.apex
+  dev-src: extracted extractive payload (libregex_re2.a, libregex_re2.so, headers) + root Android.bp
+  date: 2026-10-16

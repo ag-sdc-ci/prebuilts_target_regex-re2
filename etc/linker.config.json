@@ -1,0 +1,23 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libregex-re2-x86_64-v2.so.so",
+		    "libdummy_binary_libregex-re2.a-x86_64-v2.so",
+		    "libdummy_binary_libregex-re2.a.so",
+		    "libdummy_binary_libregex-re2.so.so",
+		    "libdummy_ext_regex_re2-x86_64-v2.so",
+		    "libdummy_ext_regex_re2.so",
+		    "libdummy_headers_ext_regex_re2-x86_64-v2.so",
+		    "libdummy_headers_ext_regex_re2.so",
+		    "libdummy_shared_regex_re2-x86_64-v2.so",
+		    "libdummy_shared_regex_re2.so",
+		    "libregex_re2-x86_64-v2.so",
+		    "libregex_re2.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
